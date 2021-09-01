@@ -5,6 +5,7 @@
 <!--
 **Freitas-Mp/Freitas-Mp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
  <div>
   <a href="https://github.com/Freitas-Mp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Freitas-Mp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,7 +20,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css"> 
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+
 
 <!-- in your body -->
 <i class="devicon-angularjs-plain colored" align="center"></i>
