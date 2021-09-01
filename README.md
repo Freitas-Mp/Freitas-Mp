@@ -19,7 +19,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-angular" src="https://as2.ftcdn.net/v2/jpg/02/95/03/85/500_F_295038577_yyg6PAw7aePNxEj7noPWr1RCusUTNJCC.jpg"> 
+  <img align="center" alt="Rafa-angular" height="30" width="40" src="https://as2.ftcdn.net/v2/jpg/02/95/03/85/500_F_295038577_yyg6PAw7aePNxEj7noPWr1RCusUTNJCC.jpg"> 
 
 
 </div>
