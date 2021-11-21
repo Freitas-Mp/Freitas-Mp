@@ -8,7 +8,7 @@
 
 <img align="right" height="60px" src="mp.jpeg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">,I am Matondo Pedro António </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matondomp=yellow" alt="Profile views" /> </p>
+<p align="left">  </p>
 
 - 🔥 Web Developer & focused on create aplications 
 
