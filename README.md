@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, React js, Express js,adonis js**
 
-- ⚡ i am engage **one💪️💪️💪️ 😜**
+- ⚡ I am Proactive **one💪️💪️💪️**
 
 <br><br>
 
