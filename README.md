@@ -1,6 +1,6 @@
 
 ##
-<img align="right" height="350px" width="100px" src="mp.jpeg"/>
+<img align="right" height="350px" width="200px" src="mp.jpeg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">,I am Matondo Pedro António </h1>
 <p align="left">  </p>
 
