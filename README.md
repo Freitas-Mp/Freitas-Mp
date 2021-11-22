@@ -1,12 +1,6 @@
 
 ##
-###🚀️🚀️🚀️ Hi WELLCOME ‼️ my name is Matondo Pedro António 🚀️🚀️🚀️
-
-<!--
-**Freitas-Mp/Freitas-Mp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-<img align="right" height="400px" src="mp.jpeg"/>
+<img align="right" height="350px" width="100px" src="mp.jpeg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">,I am Matondo Pedro António </h1>
 <p align="left">  </p>
 
